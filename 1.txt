@@ -1,0 +1,5 @@
+Golang is compiled language
+it is not object oriented
+Golang is already used in cloud servers
+no try catch
+lexer (Dont know about it)
