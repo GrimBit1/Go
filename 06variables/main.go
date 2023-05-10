@@ -16,8 +16,8 @@ func main() {
 	fmt.Println(`username is ${username}`)
 
 	//default values and some aliases
-	var othernumber int
-	var othername string
+	var othernumber int  // initialise as 0
+	var othername string // intialise as ''
 	fmt.Println(othernumber)
 	fmt.Println(othername)
 
